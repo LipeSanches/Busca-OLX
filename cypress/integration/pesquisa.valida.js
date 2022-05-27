@@ -4,7 +4,7 @@
 describe('pesquisa valida',()=>{
     
 
-    it('deve efetuar a busca do produto', ()=>{
+    it('deve efetuar a busca', ()=>{
         cy.visit('https://olx.com.br')
         
     })

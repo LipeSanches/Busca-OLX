@@ -3,7 +3,7 @@
 describe('pesquisa invalida',()=>{
     
 
-    it('deve efetuar a busca', ()=>{
+    it('deve efetuar a busca do produto', ()=>{
         cy.visit('https://olx.com.br')
         
         

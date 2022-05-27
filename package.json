@@ -1,0 +1,14 @@
+{
+  "name": "busca-olx",
+  "version": "1.0.0",
+  "description": "Projeto busca OLX",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Filipe Sanches",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
